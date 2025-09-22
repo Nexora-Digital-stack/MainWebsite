@@ -34,7 +34,7 @@ const About = () => {
               </h1>
               <p className="text-xl mb-8 text-white/90 leading-relaxed">
                 We're passionate digital marketers on a mission to help businesses 
-                thrive in the digital age. Since 2019, we've been transforming brands 
+                thrive in the digital age. Since 2025, we've been transforming brands 
                 through innovative strategies and data-driven results.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">

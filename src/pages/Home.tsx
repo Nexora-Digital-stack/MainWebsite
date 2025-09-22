@@ -151,7 +151,6 @@ const Home = () => {
               <div className="space-y-6">
                 {[
                   'Data-driven strategies that deliver measurable results',
-                  'Expert team with 5+ years of industry experience',
                   'Customized solutions for your unique business needs',
                   '24/7 support and dedicated account management'
                 ].map((feature, index) => (

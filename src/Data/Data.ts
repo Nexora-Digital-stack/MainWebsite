@@ -193,7 +193,6 @@ export const homeStats = [
     { number: '500+', label: 'Happy Clients', icon: Users },
     { number: '1000+', label: 'Projects Completed', icon: Award },
     { number: '98%', label: 'Client Satisfaction', icon: Star },
-    { number: '5+', label: 'Years Experience', icon: TrendingUp },
 ];
 
 export const homeServices = [
